@@ -8,6 +8,7 @@ body.lang-ar #block-anme-anme-site-logo img {
 }
 /*css for block-anme-search-form */
 #top-header-second #block-anme-search-form {
+    top:10px;
 }
 #top-header-second #block-anme-search-form input.form-search {
     outline: none;

@@ -11,6 +11,7 @@ global-styling:
       css/base/responsive/responsive-cp.css: {}
       css/base/responsive/responsive-tp.css: {}
       css/base/responsive/responsive-pr.css: {}
+      css/base/responsive/responsive-news.css: {}
     layout:
       css/layout/header.css: {}
       css/layout/top-header-first.css: {}
@@ -44,6 +45,7 @@ global-styling:
     js/responsive-cp.js: {}
     js/responsive-tp.js: {}
     js/responsive-press.js: {}
+    js/responsive-news.js: {}
     js/amne-main-nav.js: {}
     js/sector-statistics-tab.js: {}
 
