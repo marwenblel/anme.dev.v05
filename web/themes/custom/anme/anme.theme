@@ -101,38 +101,32 @@ function anme_preprocess_node(array &$variables) {
     $language_code = \Drupal::languageManager()->getCurrentLanguage()->getId();
     $variables['language_code'] = $language_code;
 
+    $node = Node::load($nid);
+    if ($node && $node->getType() == 'sector') {
 
+        // Example of setting a dynamic parameter like project_id.
+        $sector_id = $nid; // Replace with your dynamic value.
 
+        // Load the view.
+        $view = Views::getView('projects');
 
+        if ($view) {
+            // Set the display.
+            $view->setDisplay('block_1');
 
-    // Example of fetching a view with a parameter.
-    // Replace 'my_view' and 'block_1' with your actual view name and display ID.
-    $view_name = 'projects';
-    $display_id = 'block_1';
+            // Set arguments (parameters).
+            $view->setArguments([$sector_id]);
 
-    // Example of setting a dynamic parameter like project_id.
-    $project_id = $nid; // Replace with your dynamic value.
+            // Execute the view.
+            $view->preExecute();
+            $view->execute();
 
-    // Load the view.
-    $view = Views::getView($view_name);
+            // Render the view output.
+            $view_output = $view->buildRenderable('block_1', [$sector_id]);
 
-    if ($view) {
-        // Set the display.
-        $view->setDisplay($display_id);
-
-        // Set arguments (parameters).
-        $view->setArguments([$project_id]);
-
-        // Execute the view.
-        $view->preExecute();
-        $view->execute();
-
-        // Render the view output.
-        $view_output = $view->buildRenderable($display_id, [$project_id]);
-
-        // Render the output as markup.
-        $variables['projects_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($view_output));
-    }
+            // Render the output as markup.
+            $variables['projects_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($view_output));
+        }
 
 
 
@@ -144,18 +138,42 @@ function anme_preprocess_node(array &$variables) {
             $downloads_view->setDisplay('block_2');
 
             // Set arguments (parameters).
-            $downloads_view->setArguments([$project_id]);
+            $downloads_view->setArguments([$sector_id]);
 
             // Execute the view.
             $downloads_view->preExecute();
             $downloads_view->execute();
 
             // Render the view output.
-            $downloads_view_output = $downloads_view->buildRenderable($display_id, [$project_id]);
+            $downloads_view_output = $downloads_view->buildRenderable('block_2', [$sector_id]);
 
             // Render the output as markup.
             $variables['downloads_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($downloads_view_output));
+        }
+        // Load the news view.
+        $news_view = Views::getView('news_events');
+
+        if ($news_view) {
+            // Set the display.
+            $news_view->setDisplay('block_2');
+
+            // Set arguments (parameters).
+            $news_view->setArguments([$sector_id]);
+
+            // Execute the view.
+            $news_view->preExecute();
+            $news_view->execute();
+
+            // Render the view output.
+            $news_view_output = $news_view->buildRenderable('block_2', [$sector_id]);
+
+            // Render the output as markup.
+            $variables['news_view_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($news_view_output));
+        }
     }
+    
+
+
 }
 
 

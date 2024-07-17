@@ -2,62 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="617add38-06cf-45e4-9c39-85126b4c0332" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.content_structure.ht_jigXSumxsm0fPGN7QAsjbxlOK\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.content_structure.ht_jigXSumxsm0fPGN7QAsjbxlOK\rhjwmHTEdVhShFt204kZ1b1Ev0sM5aKziYGPA_ze-UQ.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.cron.html.twig_rMB_E2EVW3eWFwryjDCwOPsJm\-FeT_i7K1_WCnzGpN58iffRXS-nJxq_2JLsh0d9iHGk.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.cron.html.twig_rMB_E2EVW3eWFwryjDCwOPsJm\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.extending.html.twig_aPulaNALh0sFJl2d84yt7OKoZ\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.extending.html.twig_aPulaNALh0sFJl2d84yt7OKoZ\uWKK18In6wR-y-_lk1q2C7sI8Dpb7OBvsvaCTnY8VNY.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.maintenance.html.twi_8e61XgrYlMurTxeZnDzNV7Mir\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b10e7fae8_core.maintenance.html.twi_8e61XgrYlMurTxeZnDzNV7Mir\XNZab7N6LSHqRstC_GdKgZkxqcaD_ESIv79IR49m1ho.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_big-pipe-interface-previe_YwHGeuGE3hV-RX6OMH9yKT6IH\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_big-pipe-interface-previe_YwHGeuGE3hV-RX6OMH9yKT6IH\ydHf5dJN8rNXuM6Asn3Btez06zYtICmUqiXF5vMcKsI.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_block--system-messages-bl_Yf7DeHE_TARsBrQGqCKwBT3HK\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_block--system-messages-bl_Yf7DeHE_TARsBrQGqCKwBT3HK\serlnlNw0NHvqB7BHwRjJLMEzuUxZJxD6K7dsJHcBf0.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_block.html.twig_Ge3Vs-RLslH-Jp3NUdhNAqGPH\-g_HLgHxBwuXEq9Zaf4SBcVb63ipoY8nUuHwNUi9Vk8.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_block.html.twig_Ge3Vs-RLslH-Jp3NUdhNAqGPH\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_breadcrumb.html.twig_17NtYBj4GGRhhSpPswW79rftx\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_breadcrumb.html.twig_17NtYBj4GGRhhSpPswW79rftx\0VjN10PBwt1YomcxpOmcqhehwUTh593ggQJdeLoqRmc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_container.html.twig_TGXH0PxF5qf285RBfJy3FIpGB\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_container.html.twig_TGXH0PxF5qf285RBfJy3FIpGB\GjH9hsbyVy63EODPujzX3GNUr4lJXpCdZAPBIkh5mGA.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_details.html.twig_KUzOI1F512Dl6Ze1cjDxMD17x\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_details.html.twig_KUzOI1F512Dl6Ze1cjDxMD17x\Tusc3n2b6kwmQ0393MfZ5VPaa7nakqqNqhFE17_LT6k.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_form-element-label.html.t_Vlh7NHFSAtwTsvpC_E27PuGHv\-2JFBvYeEy2m29WK6OxILad6el7R09nJlPtMN030gxg.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_form-element-label.html.t_Vlh7NHFSAtwTsvpC_E27PuGHv\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_form-element.html.twig_b2MYk3w90WXqZY0h3TVv4AgDr\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_form-element.html.twig_b2MYk3w90WXqZY0h3TVv4AgDr\K2DPkfAPrvidBNU5rBAWOjBkvR5FrQsiCsmbL5Ls96Q.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_form.html.twig_81Msj3Yqn3p5N-mjNl_DLkjdZ\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_form.html.twig_81Msj3Yqn3p5N-mjNl_DLkjdZ\t_gGxgOfoyLtGq9mBMRp0LTn23ceJftBp8LC5uusNkU.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_html.html.twig_xndcHBWi-lkvsYU7QW1iBDg7z\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_html.html.twig_xndcHBWi-lkvsYU7QW1iBDg7z\2Sda0d6JMtkcd-nNSZ2WSL4AXE2foEg5b3SemzBEBWI.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_input.html.twig_6O8whi3Enw7WE5iwPs3oIsJeE\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_input.html.twig_6O8whi3Enw7WE5iwPs3oIsJeE\9irvLPxGSTcGfogtlHihn2YdgVwAzHHM9jJRaoZarFw.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_links.html.twig_v8K0rmFRYej6cgNIbosUS_eUp\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_links.html.twig_v8K0rmFRYej6cgNIbosUS_eUp\060Uh1YXuE6bf9hyT2UDBkKi6wNszo_S02ay1imvb1M.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_menu--toolbar.html.twig_OH-tCR7S2On1RexL2QGeM6cYZ\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_menu--toolbar.html.twig_OH-tCR7S2On1RexL2QGeM6cYZ\i4Z1xdKcFysOibDxN3IW09oUs_CiZmVVhSz1BqOShIM.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_off-canvas-page-wrapper.h_uS8ELyqOVFEIK5xvOHUWVGsxb\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_off-canvas-page-wrapper.h_uS8ELyqOVFEIK5xvOHUWVGsxb\zWe6iJ_3eqZK3Sd2_q_FifCHmxXfH5nzE6-n01XLOus.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_page-title.html.twig_2TUlaFIvoJmSINxC1jRiHlAVQ\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_page-title.html.twig_2TUlaFIvoJmSINxC1jRiHlAVQ\Xpa-3eOpjAcnviasaR2SFGHJI8oabNPc0-muhKFRCio.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_page.html.twig_6xSsmjUZ9LyR1Xcx5KluE9ErI\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_page.html.twig_6xSsmjUZ9LyR1Xcx5KluE9ErI\jbJrddukA9oB6FkScAyxNVO3CAbZUUIl7R0gkc57FOE.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_region--breadcrumb.html.t_D4nzjzKhve36YdSeq4iwoQoG4\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_region--breadcrumb.html.t_D4nzjzKhve36YdSeq4iwoQoG4\WwycZgxFuR8fTwQqIQehiUF1HyusHmDAjMWMd9YQmPM.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_region.html.twig_Db_uGsguifTN_KT8FvXM0iKys\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_region.html.twig_Db_uGsguifTN_KT8FvXM0iKys\5eIJLEQkQyByhCCkFdQaTkOXzNVzKCY7MQd08S-Jr44.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_select.html.twig_sn65Hp48EWWoV84W3Qkkt5OCj\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_select.html.twig_sn65Hp48EWWoV84W3Qkkt5OCj\OCFQ45ygsJuK5z8Ebh9n2wif77J6Nw9ftLKlu1oDzF0.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_status-messages.html.twig_zGU1uzViOAeO7bMep9flGStQv\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_status-messages.html.twig_zGU1uzViOAeO7bMep9flGStQv\jJpOL2_WJT9X4NpFGLggnhJkSUm3nXjl1YaRqm6kwS0.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_system-config-form.html.t_td_GSN3CM9eX7Lyeu20fosq4U\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_system-config-form.html.t_td_GSN3CM9eX7Lyeu20fosq4U\02ehFNDvCQIwJI7osovEWf9R5yR2uAlNmBpg9Ax_vXI.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\6697b59138ee4_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\8UYW--r0ghjD4wx4_4T9Fel74nFwyUyicZd_Pgk9zbQ.php" afterPath="" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\anme.dev.v05\.idea\anme.dev.v03.iml" afterPath="$PROJECT_DIR$/.idea/anme.dev.v05.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/.htaccess" afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_big-pipe-interface-previe_YwHGeuGE3hV-RX6OMH9yKT6IH\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_big-pipe-interface-previe_YwHGeuGE3hV-RX6OMH9yKT6IH\Kx-5-OdHvCwhIE_JXaOqrSuD3vFThwN-n3zncpkzAK0.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_block--system-messages-bl_Yf7DeHE_TARsBrQGqCKwBT3HK\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_block--system-messages-bl_Yf7DeHE_TARsBrQGqCKwBT3HK\5pb6wuDCH9Yr8XYZgS6zRPUuJ2yoNovXNSH8GgOasqo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_block.html.twig_Ge3Vs-RLslH-Jp3NUdhNAqGPH\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_block.html.twig_Ge3Vs-RLslH-Jp3NUdhNAqGPH\n23rLBIoeZbR-SCKzsE3oNmJR659Ms_dUIhP255NHdE.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_breadcrumb.html.twig_17NtYBj4GGRhhSpPswW79rftx\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_breadcrumb.html.twig_17NtYBj4GGRhhSpPswW79rftx\dekAi97MdDhQCFY4xWEnwA7c1tNo-uGOfhQsEZXOnZI.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_container.html.twig_TGXH0PxF5qf285RBfJy3FIpGB\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_container.html.twig_TGXH0PxF5qf285RBfJy3FIpGB\Y-FnXKLp2FSbguGWZTAZWLmgQpn3CGFTz90pfv4zbRQ.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_details.html.twig_KUzOI1F512Dl6Ze1cjDxMD17x\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_details.html.twig_KUzOI1F512Dl6Ze1cjDxMD17x\mswNelbd8DBHaLy6ZcaiTTyO1Z6VIj1iRUEFFWnIb9k.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_form-element-label.html.t_Vlh7NHFSAtwTsvpC_E27PuGHv\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_form-element-label.html.t_Vlh7NHFSAtwTsvpC_E27PuGHv\PVGr_zUP9sCMd6Z4H1VXHroopJTa9wUYzZkP9ZWz5OQ.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_form-element.html.twig_b2MYk3w90WXqZY0h3TVv4AgDr\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_form-element.html.twig_b2MYk3w90WXqZY0h3TVv4AgDr\6rfD0zH5EuiLEvxY0AZvd5EV4fxMGMhjQMvDYFmdCac.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_form.html.twig_81Msj3Yqn3p5N-mjNl_DLkjdZ\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_form.html.twig_81Msj3Yqn3p5N-mjNl_DLkjdZ\rYBdJev85bUSjUHW-22JJQOCpL5mjsvkUBIFakFUpo4.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_html.html.twig_xndcHBWi-lkvsYU7QW1iBDg7z\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_html.html.twig_xndcHBWi-lkvsYU7QW1iBDg7z\PKcWbyM3CBob_3sIliUd0aIYVMK3tDiqaD6XwS5m99s.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_input.html.twig_6O8whi3Enw7WE5iwPs3oIsJeE\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_input.html.twig_6O8whi3Enw7WE5iwPs3oIsJeE\Q3wxV4W2QWv_jjG_bx0e73m0pFCSZKQC9aP2OKvM5n4.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_links.html.twig_v8K0rmFRYej6cgNIbosUS_eUp\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_links.html.twig_v8K0rmFRYej6cgNIbosUS_eUp\9JggBWxJi0pE9gaiANtMO-SFjMYyP8P0bUqe1-DUjhc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_menu--toolbar.html.twig_OH-tCR7S2On1RexL2QGeM6cYZ\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_menu--toolbar.html.twig_OH-tCR7S2On1RexL2QGeM6cYZ\84MgsYoHnB4JRxR1Pg0dxJmXlMuJX68dIFZ6Zor87MQ.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_off-canvas-page-wrapper.h_uS8ELyqOVFEIK5xvOHUWVGsxb\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_off-canvas-page-wrapper.h_uS8ELyqOVFEIK5xvOHUWVGsxb\D_LYZuGubGT61VVnAzWS3fNAlaO4GfMkldLGdox1hO0.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_page-title.html.twig_2TUlaFIvoJmSINxC1jRiHlAVQ\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_page-title.html.twig_2TUlaFIvoJmSINxC1jRiHlAVQ\FgAms_h1Ev6aIoXn62FYHW79_SWssHo6rSeei21V7xA.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_page.html.twig_6xSsmjUZ9LyR1Xcx5KluE9ErI\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_page.html.twig_6xSsmjUZ9LyR1Xcx5KluE9ErI\e5Lg7kr4LMB3a8TYixy7tCUPmD25atI4jnp17WqiHCE.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_region--breadcrumb.html.t_D4nzjzKhve36YdSeq4iwoQoG4\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_region--breadcrumb.html.t_D4nzjzKhve36YdSeq4iwoQoG4\Dl6-yi0t2r8WkRQDOM4nGhbE2Z2hRmLHYI5hCkdUm-c.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_region.html.twig_Db_uGsguifTN_KT8FvXM0iKys\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_region.html.twig_Db_uGsguifTN_KT8FvXM0iKys\GAuUBiRM7vhF1rmKqsylVREocctRE1KZcoLJhYs7_pQ.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_select.html.twig_sn65Hp48EWWoV84W3Qkkt5OCj\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_select.html.twig_sn65Hp48EWWoV84W3Qkkt5OCj\WUiVjhdT9TjvyzBr1JI_KKjWTVK2LzQI-YEVxsLHDV4.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_status-messages.html.twig_zGU1uzViOAeO7bMep9flGStQv\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_status-messages.html.twig_zGU1uzViOAeO7bMep9flGStQv\1Jr38XOPbmWHSdhQ7_mdFnFdQI0N28UdN2NtaEgGtzQ.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_system-config-form.html.t_td_GSN3CM9eX7Lyeu20fosq4U\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_system-config-form.html.t_td_GSN3CM9eX7Lyeu20fosq4U\1p_0cEfJ5roY77byqz-EkFStywx-JuubBT9bzj5_MTA.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v05\web\sites\default\files\php\twig\66982222463c9_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\VoJqktPTfxONIqyIBNyVOSo68kfmrzLX_SFe2N6eEw8.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/anme.theme" afterPath="$PROJECT_DIR$/web/themes/custom/anme/anme.theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--sector.html.twig" afterPath="$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--sector.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="anme.dev.v03.iws" />
@@ -86,11 +77,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sector-statistics-tab.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/js/sector-statistics-tab.js">
+      <file leaf-file-name="node--sector.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--sector.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-19.307692" vertical-offset="2031" max-vertical-offset="3434">
+              <caret line="152" column="42" selection-start-line="152" selection-start-column="42" selection-end-line="152" selection-end-column="42" />
+              <folding>
+                <element signature="n#div#2;n#div#0;n#div#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anme.theme" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/anme.theme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9476117" vertical-offset="1510" max-vertical-offset="3298">
+              <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,6 +130,8 @@
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-news.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/js/responsive-news.js" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/layout/top-header-second.css" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--sector.html.twig" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/anme.theme" />
       </list>
     </option>
   </component>
@@ -266,7 +271,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anme.dev.v05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anme.dev.v05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -573,6 +612,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--sector.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.307692" vertical-offset="2031" max-vertical-offset="3434">
+          <caret line="152" column="42" selection-start-line="152" selection-start-column="42" selection-end-line="152" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/anme.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9476117" vertical-offset="1510" max-vertical-offset="3298">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding />
         </state>
       </provider>
