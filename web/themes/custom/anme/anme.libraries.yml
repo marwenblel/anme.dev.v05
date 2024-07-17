@@ -36,6 +36,7 @@ global-styling:
       css/pages/assistance.css: {}
 
       css/nodes/sector.css: {}
+      css/nodes/news.css: {}
   js:
     js/bootstrap/bootstrap.min.js: {}
     js/responsive-front.js: {}
