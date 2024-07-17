@@ -1,0 +1,26 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+    padding: 0px!important;
+    margin: 0px!important;
+}
+a {
+    text-decoration: none;
+}
+.lang-ar h1,
+.lang-ar h2,
+.lang-ar h3,
+.lang-ar h4,
+.lang-ar h5,
+.lang-ar h6 {
+    text-align: right;
+}
+#main-wrapper {
+    padding: 20px 10px 10px 10px;
+}

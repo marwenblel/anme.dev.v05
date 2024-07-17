@@ -1,0 +1,13 @@
+$databases['default']['default'] = array (
+  'database' => 'amabusw1',
+  'username' => 'amabusw1',
+  'password' => 'ZMORDA2050zmorda',
+  'prefix' => 'ama_',
+  'host' => 'amabusw1.mysql.db',
+  'port' => '3306',
+  'isolation_level' => 'READ COMMITTED',
+  'driver' => 'mysql',
+  'namespace' => 'Drupal\\mysql\\Driver\\Database\\mysql',
+  #'autoload' => 'core/modules/mysql\\src\\Driver\\Database\\mysql\\',
+  'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
+);
