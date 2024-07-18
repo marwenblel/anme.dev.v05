@@ -193,6 +193,28 @@ function anme_preprocess_node(array &$variables) {
             // Render the output as markup.
             $variables['useful_links_view_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($useful_links_view_output));
         }
+
+
+        // Load the studies view.
+        $studies_view = Views::getView('studies');
+
+        if ($studies_view) {
+            // Set the display.
+            $studies_view->setDisplay('block_1');
+
+            // Set arguments (parameters).
+            $studies_view->setArguments([$sector_id]);
+
+            // Execute the view.
+            $studies_view->preExecute();
+            $studies_view->execute();
+
+            // Render the view output.
+            $studies_view_output = $studies_view->buildRenderable('block_1', [$sector_id]);
+
+            // Render the output as markup.
+            $variables['studies_view_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($studies_view_output));
+        }
     }
     
 
