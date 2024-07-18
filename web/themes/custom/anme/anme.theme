@@ -150,6 +150,7 @@ function anme_preprocess_node(array &$variables) {
             // Render the output as markup.
             $variables['downloads_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($downloads_view_output));
         }
+
         // Load the news view.
         $news_view = Views::getView('news_events');
 
@@ -169,6 +170,28 @@ function anme_preprocess_node(array &$variables) {
 
             // Render the output as markup.
             $variables['news_view_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($news_view_output));
+        }
+
+
+        // Load the useful_links view.
+        $useful_links_view = Views::getView('useful_links');
+
+        if ($useful_links_view) {
+            // Set the display.
+            $useful_links_view->setDisplay('block_1');
+
+            // Set arguments (parameters).
+            $useful_links_view->setArguments([$sector_id]);
+
+            // Execute the view.
+            $useful_links_view->preExecute();
+            $useful_links_view->execute();
+
+            // Render the view output.
+            $useful_links_view_output = $useful_links_view->buildRenderable('block_1', [$sector_id]);
+
+            // Render the output as markup.
+            $variables['useful_links_view_embedded_view'] = Markup::create(\Drupal::service('renderer')->renderPlain($useful_links_view_output));
         }
     }
     
