@@ -1,0 +1,9 @@
+body.page-type-page #content #block-anme-content article img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 10px;
+}
+body.page-type-page #sidebar-second {
+    margin-top: 30px;
+}

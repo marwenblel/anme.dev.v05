@@ -154,6 +154,10 @@ body.lang-ar #content #block-anme-views-block-banner-product-block-1 .views-fiel
 #content #block-anme-breadcrumbs nav ol {
     list-style-type: none;
 }
+body.lang-ar #content #block-anme-breadcrumbs nav ol {
+    text-align: right;
+    margin-right: 50px;
+}
 #content #block-anme-breadcrumbs nav ol li {
     display: inline-block;
 }

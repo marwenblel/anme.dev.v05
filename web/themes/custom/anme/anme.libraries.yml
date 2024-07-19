@@ -4,6 +4,7 @@ global-styling:
     base:
       css/base/style.css: {}
       css/base/fix.css: {}
+      css/base/rtl/rtl.css: {}
       css/bootstrap/bootstrap.min.css: {}
       css/base/responsive/responsive-all.css: {}
       css/base/responsive/responsive-front.css: {}
@@ -38,8 +39,10 @@ global-styling:
 
       css/nodes/sector.css: {}
       css/nodes/news.css: {}
+      css/nodes/basic-page.css: {}
   js:
     js/bootstrap/bootstrap.min.js: {}
+    js/responsive-all.js: {}
     js/responsive-front.js: {}
     js/responsive-gp.js: {}
     js/responsive-cp.js: {}
@@ -48,6 +51,7 @@ global-styling:
     js/responsive-news.js: {}
     js/amne-main-nav.js: {}
     js/sector-statistics-tab.js: {}
+    js/top-toggle.js: {}
 
 
   dependencies:

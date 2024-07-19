@@ -1,3 +1,6 @@
+body.page-type-sector #sidebar-second {
+    margin-top: 30px;
+}
 body.page-type-sector #content #block-anme-content .sector-node {
     min-height: 500px;
 }

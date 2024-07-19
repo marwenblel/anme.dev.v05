@@ -8,38 +8,7 @@
         padding-left: 50px;
     }
 }
-/*CSS for block-anme-tabsmenu*/
-@media (min-width: 300px) and (max-width: 770px) {
-    body.frontpage #highlighted-header-first {
-        margin: 0px;
-        max-width: 770px;
-    }
-    body.frontpage #block-anme-tabsmenu  {
-        /* display: block!important;*/
-        width: 100%;
 
-    }
-    body.frontpage #block-anme-tabsmenu ul li {
-       /* display: block!important;*/
-
-    }
-}
-
-
-/*css for block-anme-anme-site-logo */
-@media (min-width: 300px) and (max-width: 770px) {
-    body.frontpage #top-header-second #block-anme-anme-site-logo {
-        margin-top: 20px;
-        text-align: center;
-    }
-}
-
-/*css for block-anme-search-form */
-@media (min-width: 300px) and (max-width: 770px) {
-    body.frontpage #top-header-second #block-anme-search-form {
-        display: none;
-    }
-}
 /*CSS for #block-anme-views-block-front-page-slider-block-1 in highlighted-header-last region */
 @media (min-width: 300px) and (max-width: 770px) {
     body.frontpage #highlighted-header-last #block-anme-views-block-front-page-slider-block-1 .owl-slider-wrapper {
@@ -95,6 +64,7 @@
       overflow: hidden;
     }
 }
+
 /*CSS for #block-anme-views-block-our-platforms-block-1 in content bottom region */
 @media (min-width: 300px) and (max-width: 770px) {
     body.frontpage #content-bottom #block-anme-views-block-our-platforms-block-1 .row {

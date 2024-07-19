@@ -10,10 +10,10 @@
 
             if (sidebarSecond && content) {
                 sidebarSecond.classList.remove('col-4');
-                sidebarSecond.classList.add('col');
+                //sidebarSecond.classList.add('col');
 
                 content.classList.remove('col-8');
-                content.classList.add('col');
+                //content.classList.add('col');
             }
         }
     }
@@ -35,8 +35,9 @@
             }
         }
     }
-    window.addEventListener('resize', replaceClassByCol);
     window.addEventListener('load', replaceClassByCol);
-    window.addEventListener('resize', reverseReplaceClassByCol);
+    //window.addEventListener('resize', replaceClassByCol);
     window.addEventListener('load', reverseReplaceClassByCol);
+    //window.addEventListener('resize', reverseReplaceClassByCol);
+
 })(jQuery)

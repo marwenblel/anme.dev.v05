@@ -45,12 +45,16 @@ body.lang-ar #highlighted-header-second #superfish-main li#main-standardfront-pa
     background-color: #DFEEF4;
     color: #000000;
 }
-
-
 #block-anme-main-navigation .sf-accordion-toggle  {
     padding: 15px;
-    background-color: #ffffff;
+    background-color: transparent;
+    position: absolute;
+    top: 0px;
 }
+body.lang-ar #block-anme-main-navigation .sf-accordion-toggle  {
+    left: 0px;
+}
+
 #block-anme-main-navigation .sf-accordion-toggle #superfish-main-toggle {
     display: block;
     background: url("../../images/menu.png") no-repeat;

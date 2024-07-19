@@ -29,6 +29,18 @@
     left: 25px;
     font-family: Corbel;
 }
+#highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li:first-child a {
+    background-color: #00a3da;
+}
+#highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li:nth-child(2) a {
+    background-color: #465b94;
+}
+#highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li:nth-child(3) a {
+    background-color: #ffa000;
+}
+#highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li:nth-child(4) a {
+    background-color: #8ab882;
+}
 #highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li:first-child a:hover,
 #highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li:first-child a.is-active {
     background-color: #00a3da;

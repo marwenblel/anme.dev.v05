@@ -92,6 +92,12 @@
         overflow: hidden;
     }
 }
+/*CSS for block-anme-views-block-photo-library-block-1 */
+@media (min-width: 300px) and (max-width: 770px) {
+    body.page-id-9 #content #block-anme-views-block-photo-library-block-1 {
+        display: none;
+    }
+}
 /*CSS for #block-anme-views-block-our-platforms-block-1 in content bottom region */
 @media (min-width: 300px) and (max-width: 770px) {
     body.page-id-9 #content-bottom #block-anme-views-block-our-platforms-block-1 .row {
