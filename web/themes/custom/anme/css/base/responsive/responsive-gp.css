@@ -92,20 +92,7 @@
         overflow: hidden;
     }
 }
-/*CSS for #block-anme-views-block-our-platforms-block-1 in content bottom region */
-@media (min-width: 300px) and (max-width: 770px) {
-    body.page-id-6 #content-bottom #block-anme-views-block-our-platforms-block-1 .row {
-        display: block;
-    }
-    body.page-id-6 #content-bottom #block-anme-views-block-our-platforms-block-1 .row .col {
-        width: 100%!important;
-    }
-    body.page-id-6 #main-wrapper.container {
-        margin-left: 0px;
-        margin-right: 0px;
-        width: 100%;
-    }
-}
+
 /*CSS for block-anme-views-block-webinair-block-1 */
 @media (min-width: 300px) and (max-width: 770px) {
     body.page-id-6 #footer-top #block-anme-views-block-webinair-block-1 {
