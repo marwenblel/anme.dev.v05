@@ -63,3 +63,70 @@ body.lang-ar #sidebar-second #block-anme-views-block-downloads-block-1-sector .b
     margin-right: 10px;
     text-transform: uppercase;
 }
+
+/*************************************/
+
+
+body.page-type-sector #content #block-anme-content .sector-node #tab1 {
+}
+body.page-type-sector #content #block-anme-content .sector-node #tab1 p {
+    text-align: justify;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 300;
+    font-family: Corbel !important;
+    text-indent: 15px;
+}
+body.page-type-sector #content #block-anme-content .sector-node #tab1 ul {
+    list-style: none;
+}
+body.page-type-sector #content #block-anme-content .sector-node #tab1 ul li {
+    padding-left: 25px;
+    font-size: 14px;
+    color: #000;
+    margin-bottom: 17px;
+    position: relative;
+    font-weight: 300;
+    text-indent: 10px;
+}
+body.lang-ar.page-type-sector #content #block-anme-content .sector-node #tab1 ul li {
+    text-align: right;
+}
+body.page-type-sector #content #block-anme-content .sector-node #tab1 ul li::before {
+    content: "";
+    background: url('../../images/icons/puce.png');
+    height: 10px;
+    width: 13px;
+    display: inline-block;
+    margin-right: 10px;
+}
+body.lang-ar.page-type-sector #content #block-anme-content .sector-node #tab1 ul li::before {
+    margin-left: 10px;
+}
+body.page-type-sector #content #block-anme-content .sector-node #tab1 table {
+    width: 100%;
+    border-collapse: collapse; /* Ensures borders are collapsed */
+    margin: 20px 0; /* Adds margin around the table */
+}
+
+body.page-type-sector #content #block-anme-content .sector-node #tab1 th,body.page-type-page #content #block-anme-content .sector-node #tab1 td {
+    border: 1px solid #ddd; /* Light gray border */
+    padding: 8px; /* Padding inside cells */
+    text-align: left; /* Align text to the left */
+}
+body.lang-ar.page-type-sector #content #block-anme-content .sector-node #tab1 th,body.lang-ar.page-type-page #content #block-anme-content .sector-node #tab1 td {
+    text-align: right;
+}
+
+body.page-type-sector #content #block-anme-content .sector-node #tab1 th {
+    background-color: #f4f4f4; /* Light gray background for headers */
+    font-weight: bold; /* Bold text for headers */
+}
+
+body.page-type-sector #content #block-anme-content .sector-node #tab1 tr:nth-child(even) {
+    background-color: #f9f9f9; /* Zebra striping for even rows */
+}
+
+body.page-type-sector #content #block-anme-content .sector-node #tab1 tr:hover {
+    background-color: #f1f1f1; /* Highlight row on hover */
+}

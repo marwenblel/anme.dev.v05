@@ -29,6 +29,9 @@
     left: 25px;
     font-family: Corbel;
 }
+body.lang-ar #highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li a {
+    right: 15px;
+}
 #highlighted-header-first .region-highlighted_header_first #block-anme-tabsmenu li:first-child a {
     background-color: #00a3da;
 }
