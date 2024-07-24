@@ -1,6 +1,12 @@
 #main-wrapper {
   padding: 0px!important;
 }
+/*CSS for top-header-first tpl */
+@media (min-width: 300px) and (max-width: 770px) {
+    #top-header-first {
+        display: none;
+    }
+}
 /*CSS for block-anme-tabsmenu*/
 @media (min-width: 300px) and (max-width: 770px) {
     #highlighted-header-first {
@@ -117,4 +123,11 @@
         width: 100%;
     }
 }
+
+/*CSS for footer-content tpl */
+/*@media (min-width: 300px) and (max-width: 770px) {
+    #footer-content .block {
+        display: block!important;
+    }
+}*/
 
